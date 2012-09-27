@@ -1,0 +1,24 @@
+
+/* sharing part */
+
+/* for Chinese */
+
+/* chapter */
+
+h1 {
+    font-size: 1.2em;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    margin-top: 2em;
+    text-indent: 0em;
+    line-height: 1.5em;
+}
+
+/* for English */
